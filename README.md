@@ -9,17 +9,6 @@
   * Grafana账号：mall/mall
   * txlcn事务管理器密码：admin
   * 任务管理账号密码：admin/123456
-* **演示环境有全方位的监控示例：日志系统 + APM系统 + GPE系统**
-
-
-
->   发布页面 http://m3w.cn/mallcloud  
->   h5地址  http://www.yjlive.cn:8082/#/ 
->  后台管理地址 http://www.yjlive.cn:8090 
->  小程序体验码
->  ![输入图片说明](https://images.gitee.com/uploads/images/2019/0621/100856_b901ecef_134431.png "屏幕截图.png")
->  app体验 加群下载
->  apk下载 链接: https://pan.baidu.com/s/1UiFtg3AQ2-muNjfQjsjXPw 提取码: nda2
 
 * 前后端分离的企业级微服务架构
 * 基于`Spring Boot 2.0.X`、`Spring Cloud Finchley`和`Spring Cloud Alibaba`
